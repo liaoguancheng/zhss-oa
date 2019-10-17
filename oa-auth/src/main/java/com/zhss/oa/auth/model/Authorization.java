@@ -5,6 +5,7 @@ package com.zhss.oa.auth.model;
  */
 
 public class Authorization {
+    private long lsiao ;
     private Long id;
     private Long employeeId;
     private Long roleId;
