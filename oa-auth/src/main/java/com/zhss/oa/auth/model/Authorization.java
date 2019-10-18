@@ -34,5 +34,5 @@ public class Authorization {
 
     public Long getRoleId() {
         return roleId;
-    }
+    }   
 }

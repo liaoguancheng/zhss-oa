@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7d0aeba-dcb8-469e-98a5-a7dbf4f619f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oa-auth/src/main/java/com/zhss/oa/auth/model/Authorization.java" beforeDir="false" afterPath="$PROJECT_DIR$/oa-auth/src/main/java/com/zhss/oa/auth/model/Authorization.java" afterDir="false" />
     </list>
@@ -315,7 +314,7 @@
       <workItem from="1571009693034" duration="15097000" />
       <workItem from="1571123091514" duration="12969000" />
       <workItem from="1571209622634" duration="1272000" />
-      <workItem from="1571355671499" duration="244000" />
+      <workItem from="1571355671499" duration="1788000" />
     </task>
     <servers />
   </component>
