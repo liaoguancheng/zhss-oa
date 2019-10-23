@@ -28,7 +28,6 @@ public class Application {
     }
 
     public Integer getDays() {
-        System.out.println(1);
         return days;
     }
 }
