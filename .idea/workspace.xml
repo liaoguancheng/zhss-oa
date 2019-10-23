@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f7d0aeba-dcb8-469e-98a5-a7dbf4f619f9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa-auth/src/main/java/com/zhss/oa/auth/model/Authorization.java" beforeDir="false" afterPath="$PROJECT_DIR$/oa-auth/src/main/java/com/zhss/oa/auth/model/Authorization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oa-flow/src/main/java/com/zhss/oa/flow/model/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/oa-flow/src/main/java/com/zhss/oa/flow/model/Application.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -337,7 +337,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
